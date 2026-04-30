@@ -55,6 +55,10 @@ flowchart TD
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-n8n-Templates/23.-Voice-Travel-Agent-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=24LFTLdopM0)
+
+---
+
 ## Node-by-node configuration (purpose + essential params)
 
 > Only the essential parameters are listed — keep API credentials in n8n credential manager.
